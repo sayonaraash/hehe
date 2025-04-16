@@ -3,4 +3,4 @@ uvicorn
 pydantic
 pytest
 httpx
-pydantic_settings
+pydantic_settings 
